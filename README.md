@@ -17,7 +17,6 @@ This app contains a single component, GenerateRandomNumber, which is responsible
 <br/>
 <br/>
 
-GenerateRandomNumber Component
 The GenerateRandomNumber component contains the following:
 <br/>
 
